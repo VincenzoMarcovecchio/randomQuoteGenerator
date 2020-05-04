@@ -1,2 +1,0 @@
-# randomQuoteGenerator
-Created with CodeSandbox
